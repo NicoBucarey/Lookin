@@ -1,0 +1,40 @@
+{
+    "cargando":
+    {
+        "cargando":"Loading"
+    },
+    "listaFiltros":
+    {
+        "mensaje":"No results found"
+    },
+    "resultadoBusqueda":
+    {
+        "resultadoBusqueda": "No matches were found for your search.",
+        "resultadosPara": "Results for"   
+    },
+    "sinopsis": 
+    {
+        "duracion": "Duration not available",
+        "sinopsisNoDisponible": "Synopsis not available."
+    },
+    "episodios": 
+    {
+        "episodios": "Episodes",
+        "verEpisodios": "View Episodes",
+        "tituloTemporada": "Season {{number}} Episodes"
+
+    },
+    "buscador":
+    {
+        "mensajePlaceholder":"Search for movies or TV shows..."
+    },
+    "mensajeEmergente": {
+        "sinLink": "We do not have an official link for {{plataforma}}"
+    },
+    "error404": {
+        "mensaje1": "Page not found",
+        "mensaje2": "Sorry, we couldn't find what you're looking for.",
+        "volver": "Back to home"
+    }
+
+}

@@ -1,0 +1,38 @@
+{
+    "cargando":
+        {
+            "cargando":"Cargando"
+        },
+    "listaFiltros":
+        {
+            "mensaje":"No se encontraron resultados"
+        },
+    "resultadoBusqueda":
+        {
+            "resultadoBusqueda": "No se encontraron coincidencias para tu búsqueda.",
+            "resultadosPara":"Resultados para"
+        },
+    "sinopsis":
+    {
+        "duracion":"Duración no disponible",
+        "sinopsisNoDisponible":"Sin sinopsis disponible."
+    },
+    "episodios":
+    {
+        "episodios": "Episodios",
+        "verEpisodios": "Ver Episodios",
+        "tituloTemporada": "Episodios Temporada {{number}}"
+    },
+    "buscador":
+    {
+        "mensajePlaceholder":"Buscar películas o series..."
+    },
+    "mensajeEmergente": {
+        "sinLink": "No tenemos link oficial para {{plataforma}}"
+    },
+    "error404":{
+        "mensaje1":"Página no encontrada",
+        "mensaje2":"Lo sentimos, no pudimos encontrar lo que estás buscando.",
+        "volver":"Volver al inicio"
+    }
+}

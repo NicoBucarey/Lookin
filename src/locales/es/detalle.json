@@ -1,0 +1,40 @@
+{   
+    "detalle":
+        {
+            "sinopsis":"Sinopsis",
+            "info":"Información",
+            "galeria":"Galería",
+            "reparto":"Reparto",
+            "trailer":"Trailer",
+            "ver":"Plataformas",
+            "temporada":"Temporadas",
+            "similares": "Similares"
+        },
+    "dondeVerla":
+        {
+            "dondePuedoVerla":"Plataformas"
+        },
+    "infoDesactualizada":
+        {  
+            "infoDesactualizada1":"Información posiblemente desactualizada:",
+            "infoDesactualizada2":"esta película aparecía como disponible en una plataforma, pero actualmente no figura. Esto puede deberse a que fue retirada recientemente."
+        },
+    "informacion":
+        {
+            "informacion":"Información",
+            "director":"Director",
+            "genero":"Género",
+            "idiomaOriginal":"Idioma original:",
+            "compañiasDeProduccion":"Compañías de producción",
+            "presupuesto":"Presupuesto",
+            "recaudacion":"Recaudación",
+            "popularidad":"Popularidad",
+            "nivelDeInteres":"Nivel de interés según visualizaciones y actividad reciente.",
+            "noDisponible":"No disponible"
+        },
+    "titulosSimilares":
+        {
+            "titulosSimilares":"Títulos similares"
+        }
+    
+}
