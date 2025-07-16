@@ -6,11 +6,7 @@
 * Programacion Web Avanzada
 
 
- | Nombre                 | Legajo     |
- |------------------------|------------|
- | Jazmín Loureiro        | FAI-4228   |
- | Nicolás Bucaray        | FAI-4255   |
- | Ailen Flores Montes    | FAI-3547   |
+
  
  -----------------------------------------------------------
 El proyecto está desplegado en Vercel: https://lookin-alpha.vercel.app/
